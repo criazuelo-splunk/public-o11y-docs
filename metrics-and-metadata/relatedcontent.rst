@@ -7,7 +7,7 @@ Related Content in Splunk Observability Cloud
 .. meta::
    :description: Ensure metadata keys are correct to enable full Related Content functionality.
 
-The Related Content feature automatically correlates data between different views within Splunk Observability Cloud by presenting related data at the bottom of the screen.
+The Related Content  feature automatically correlates data between different views within Splunk Observability Cloud by presenting related data at the bottom of the screen.
 
 Select tiles in the Related Content bar to seamlessly navigate from one view to another in Observability Cloud. The following animation shows a user navigating from APM to Infrastructure Monitoring to Log Observer.
 
